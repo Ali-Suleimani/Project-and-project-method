@@ -1,0 +1,67 @@
+
+.blah{
+    /*background-color: black;*/
+    color: purple;
+    /*text-align: right;*/
+   position: relative;
+   left: 200px;
+   margin-top: 10px;
+};
+ .container1{ 
+    max-width: 200px;
+    max-height: 100px;
+ } 
+
+.container1{
+    position: relative;
+    left: 350px;
+    margin-top: 40px;
+}
+.Button{
+    position: absolute;
+    right: 13px;
+    width: 10px;
+    height: 10px;
+    border: 2px blueviolet #8A2BE2;
+    border-radius: 10px;
+    background-color:#5F9EA0;
+}
+.Alva{
+    position: relative;
+    left: 100px;
+    top: 13px;
+
+}
+.Ali{
+    position: absolute;
+    left: 200px;
+    top: 226px;
+}
+.Nils{
+    position: absolute;
+    left: 205px;
+    top: 270px;
+}
+.Narima{
+    position: absolute;
+    left: 200px;
+    top: 270px;
+}
+.Niloofar{
+    position: absolute;
+    left: 205px;
+    top: 305px;
+}
+.Jabez{
+    position: absolute;
+    left: 200px;
+    top: 305px;
+}
+
+.con{
+    display: flex;
+    justify-content: space-around;
+}
+.child{
+    text-align: center;
+}
